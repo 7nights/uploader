@@ -1,0 +1,24 @@
+{
+  "name": "uploader",
+  "version": "1.0.0",
+  "description": "Transfer files between 2 clients.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/7nights/uploader.git"
+  },
+  "keywords": [
+    "file",
+    "transfer"
+  ],
+  "author": "morethansean@gmail.com",
+  "bugs": {
+    "url": "https://github.com/7nights/uploader/issues"
+  },
+  "homepage": "https://github.com/7nights/uploader",
+  "dependencies": {
+    "colors": "~1.0.3",
+    "commander": "~2.8.0",
+    "node-int64": "~0.4.0"
+  }
+}

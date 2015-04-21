@@ -1,0 +1,14 @@
+{
+    "AUTH": {
+        "RANDOM_BYTES": 0,
+        "VERIFY": 1,
+        "PUBLIC_KEY": 5,
+        "EXCHANGE_PUBLIC_KEY": 2,
+        "PUBLIC_KEY_RECEIVED": 3,
+        "SET_TOKEN": 4,
+        "TOKEN_SET": 9
+    },
+    "UPLOAD": 6,
+    "ERROR": 7,
+    "CLOSE": 8
+}

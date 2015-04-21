@@ -1,0 +1,9 @@
+{
+    "PORT": 17848,
+    "ROOT": "./",
+    "CIPHER_ALGORITHM": "aes-256-cbc",
+    "CIPHER_BLOCK_SIZE": 16,
+    "HMAC_ALGORITHM": "md5",
+    "HMAC_KEY": "hello_uploader",
+    "PROTOCOL_VERSION": 0
+}
