@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Transfer files between 2 clients.",
   "main": "index.js",
+  "bin": {
+    "uploader": "bin/uploader"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/7nights/uploader.git"
