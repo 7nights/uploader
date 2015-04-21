@@ -5,7 +5,7 @@ var
     Int64   = require('node-int64'),
     crypto  = require('crypto'),
     path    = require('path'),
-    L       = require('./linklist'),
+    L       = require('./lib/linklist'),
     ptypes  = require('./ptypes.json'),
     config  = require('./config.json'),
     util    = require('./lib/util'),
